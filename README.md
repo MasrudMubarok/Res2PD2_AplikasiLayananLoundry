@@ -1,2 +1,2 @@
 # Res2PD2_AplikasiLayananLoundry
-# Created By Ahmad Masrud Mubarok & Titania Tara Swastikas
+Created by Ahmad Masrud Mubarok & Titania Tara Swastika
